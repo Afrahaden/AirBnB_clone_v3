@@ -158,4 +158,4 @@ Afrah Aden - [Github](https://github.com/Afrahaden)
 Innocent Mtingwi - [Github](https://github.com/Tensai99)
 
 ## License
-Public Domain. No copy write protection. 
+Public Domain.
